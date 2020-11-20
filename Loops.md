@@ -1,5 +1,10 @@
 # JavaScript Loops
 
+Author: Kaleb Burd
+
+Length: TBD
+
+---
 
 ## While loop
 ```javascript
@@ -19,7 +24,7 @@ while(count < 5){
 }
 ```
 
-### Excercise 1: Guess a random number
+## Excercise 1: Guess a random number
 ```javascript
 let randomNumber = Math.floor(Math.random() * 10) + 1; 
 let userGuess = prompt("Guess a number between 1 - 10");
@@ -48,7 +53,7 @@ do{
 alert(`Hooooooray!!!`);
 ```
 
-### Excercise 2: Sum Total
+## Excercise 2: Sum Total
 ```javascript
 let count = 0;
 let total = 0;
@@ -68,7 +73,7 @@ for(let count = 0; count <= 5; count++){
 alert(`Your sum was ${total}`);
 ```
 
-### Excercise 3: Start, Stop, Step
+## Excercise 3: Start, Stop, Step
 Create for loops that do the following:
 * Counts from 0 to 4, one at a time
 * Counts from 1 to 9, one at a time
@@ -115,7 +120,7 @@ for(let i = 1; i <= 10; i++){
 document.getElementById("example").innerHTML = output;
 ```
 
-### Example 4: TODO
+## Exercise 4: User chooses the list type
 ```html
 <!DOCTYPE html>
 <html lang="en">
