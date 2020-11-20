@@ -111,7 +111,7 @@ for(let i = 0; i < cars.length; i++){
 }
 ```
 
-### Exercise 2: Multiplication Grid
+## Exercise 2: Multiplication Grid
 ```javascript
 let grid = [[0,0,0],[0,0,0],[0,0,0]];
 for(let i = 0; i < grid.length; i++){
