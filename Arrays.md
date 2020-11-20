@@ -136,36 +136,3 @@ let front = cars.slice(0, middle);
 let back = cars.slice(middle, cars.length);
 console.log(front, back);
 ```
-
-
-## Two Dimensional Arrays
-```javascript
-//Intialization
-let cars = [
-    ["Jetta", "Golf", "Passat"], 
-    ["Beetle", "VW Bus", "GTI"], 
-    ["ID.4", "GLI", "Atlas"]
-];
-
-//Accessing
-cars[2][2] = "Tiguan";
-
-//Iterating
-for(let i = 0; i < cars.length; i++){
-    for(let j = 0; j < cars[i].length; j++){
-        console.log(cars[i][j]);
-    }
-    console.log();
-}
-```
-
-### Exercise 4: Multiplication Grid
-```javascript
-let grid = [[0,0,0],[0,0,0],[0,0,0]];
-for(let i = 0; i < grid.length; i++){
-    for(let j = 0; j < grid[i].length; j++){
-        grid[i][j] = (i+1)*)(j+1);
-    }
-}
-console.log(grid);
-```
