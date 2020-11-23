@@ -3,6 +3,7 @@
 ## Directory
 * [HTML](/HTML)
   - [Basics](/JavaScript/Basics.md)
+  - [Forms](/JavaScript/Forms.md)
 * [CSS](/CSS)
   - [Basics](/JavaScript/Basics.md)
 * [JavaScript](/JavaScript)
@@ -10,3 +11,4 @@
   - [Loops](/JavaScript/Loops.md)
   - [Arrays](/JavaScript/Arrays.md)
   - [MultiDimArrays](/JavaScript/MultiDimArrays.md)
+  - [Functions](/JavaScript/Functions.md)
