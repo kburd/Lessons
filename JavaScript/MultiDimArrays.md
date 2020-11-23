@@ -2,7 +2,7 @@
 
 Author: Kaleb Burd
 
-Length: TBD
+Length: 1.5 hours
 
 ---
 
